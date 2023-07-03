@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Amit Datta
+tagline:          Carnegie Mellon University
+description:      ''
+url:              http://www.andrew.cmu.edu
+baseurl:          /user/amitdatt/
+
+author:
+name:             'Amit Datta'
+#  url:            https://twitter.com/mdo
+
+gem:              [jekyll-paginate, jekyll-gists]
+
+#paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
